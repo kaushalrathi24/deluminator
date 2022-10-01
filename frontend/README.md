@@ -12,5 +12,5 @@ Open using Android Studio and ensure not to upgrade Gradle
 # Disclaimer
 
 ```
-We're currently using our own API keys for the GeoSpatialAPI and they might be depra
+We're currently using our own API keys for the GeoSpatialAPI and they might get depracated
 ```
